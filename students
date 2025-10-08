@@ -1,7 +1,7 @@
 {
   "students": [
-    { "id": 1, "name": "Aarav", "age": 21, "gender": "Male" },
-    { "id": 2, "name": "Diya", "age": 20, "gender": "Female" },
-    { "id": 3, "name": "Rohan", "age": 22, "gender": "Male" }
+    { "id": 1, "name": "Aarav", "age": 21, "gender": "Male", "sub": ["hin", "eng"] },
+    { "id": 2, "name": "Diya", "age": 20, "gender": "Female", "sub": ["guj", "eng"]  },
+    { "id": 3, "name": "Rohan", "age": 22, "gender": "Male", "sub": ["hin", "eng"]  }
   ]
 }
